@@ -1,2 +1,6 @@
 # Python-com-SQL
  Introdução de como usar o pythn com SQL
+ x
+ x
+ x
+ x
